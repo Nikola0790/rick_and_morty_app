@@ -1,0 +1,43 @@
+body {
+  background-image: url("../bg image/rick.jpg") !important;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+.navBar {
+  margin: 25px 0 100px 0;
+}
+
+.btn {
+  width: 100%;
+}
+
+.card-body {
+  background-color: white;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.characterInfo {
+  color: white;
+  font-size: x-large;
+  background-color: rgba(8, 5, 16, 0.7);
+  text-align: center;
+}
+
+.imgCharacter img {
+  width: 100%;
+}
+
+header {
+  background-color: darkgray;
+  letter-spacing: 10px;
+}
+/*# sourceMappingURL=main.css.map */
